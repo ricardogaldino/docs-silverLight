@@ -1,2 +1,1 @@
-# docs-silverLight
-SilverLight
+# SilverLight
